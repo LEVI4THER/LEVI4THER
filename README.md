@@ -33,7 +33,7 @@
   You can simply call me <b>Jaco</b>.
   <br><br>
   as u can see im interested in wifies' arcs/series yt but im still new in this fandom :(
-  <br> <br>
+  <br>
   but u can always come to me and talk about it! id be glad if u do :)
 </p>
 
