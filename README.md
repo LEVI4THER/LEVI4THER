@@ -1,16 +1,9 @@
 ##
 
-<!-- ================================= -->
-<!--          PROFILE BANNER           -->
-<!-- ================================= -->
-
 <p align="center">
   <img src="./banner.png" width="100%" alt="Profile Banner">
 </p>
 
-<!-- ================================= -->
-<!--             QUOTE                 -->
-<!-- ================================= -->
 
 <h2 align="center">
   ✦ WELCOME TO MY LITTLE WORLD ✦
@@ -27,17 +20,11 @@
   ☾ ⋆⁺₊⋆ ━━━━━━━━━━━━━ ⋆⁺₊⋆ ☽
 </p>
 
-<!-- ================================= -->
-<!--          MAIN IMAGE               -->
-<!-- ================================= -->
 
 <p align="center">
   <img src="./main-image.png" width="85%" alt="Main Illustration">
 </p>
 
-<!-- ================================= -->
-<!--             ABOUT ME              -->
-<!-- ================================= -->
 
 <h2 align="center">✦ ABOUT ME ✦</h2>
 
@@ -55,9 +42,6 @@
   ☾ ─────────────── ☽
 </p>
 
-<!-- ================================= -->
-<!--             MY INTERESTS          -->
-<!-- ================================= -->
 
 <h2 align="center">✦ MY INTERESTS ✦</h2>
 
@@ -95,9 +79,6 @@
   </a>
 </p>
 
-<!-- ================================= -->
-<!--          FOOTER DECORATION        -->
-<!-- ================================= -->
 
 <p align="center">
   <img src="./decoration.gif" width="180" alt="Decoration">
@@ -105,6 +86,4 @@
 
 <p align="center">
   <i>Thank you for visiting my little corner of the internet.</i>
-  <br>
-  ✦ Made with creativity and imagination ✦
 </p>
