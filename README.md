@@ -4,9 +4,9 @@
   <img src="./banner.png" width="100%" alt="Profile Banner">
 </p>
 
-
 <h2 align="center">
-  ✦ WELCOME TO MY OCEAN ✦
+  <span style="color: #B8A1E3;"
+    >WELCOME TO MY WORLD</span>
 </h2>
 
 <p align="center">
