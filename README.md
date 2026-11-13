@@ -6,7 +6,8 @@
 
 <h2 align="center">
   <span style="color: #B8A1E3;"
-    >WELCOME TO MY WORLD</span>
+    >WELCOME TO MY OCEAN
+  </span>
 </h2>
 
 <p align="center">
@@ -25,8 +26,6 @@
 </p>
 
 <p align="center">
-  Thank you for your visit.
-  <br> <br>
   You can simply call me <b>Jaco</b> or whatevs u want I dont mind tehe
   <br> <br>
   As u can see Im interested in wifies' arcs/series yt and others but Im still new in this fandom :(
