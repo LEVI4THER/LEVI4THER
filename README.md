@@ -6,13 +6,12 @@
 
 
 <h2 align="center">
-  ✦ WELCOME TO MY LITTLE WORLD ✦
+  ✦ WELCOME TO MY OCEAN ✦
 </h2>
 
 <p align="center">
   <i>
-    "Somewhere between dreams and reality,
-    I found a place of my own."
+    "I don't think I can believe in something that might not even exist" 
   </i>
 </p>
 
@@ -26,16 +25,16 @@
 </p>
 
 
-<h2 align="center">✦ ABOUT ME ✦</h2>
+<h2 align="center">✦ ME IN A NUTSHELL ✦</h2>
 
 <p align="center">
-  Hello! Welcome to my personal space.
+  Pleasure to find you here!
   <br>
-  You can call me <b>Levi</b>.
+  You can simply call me <b>Jaco</b>.
   <br><br>
-  I'm someone who enjoys exploring creativity,
-  learning new things, and expressing ideas
-  through art and technology.
+  as u can see im interested in wifies' arcs/series yt but im still new in this fandom :(
+  <br> <br>
+  but u can always come to me and talk about it! id be glad if u do :)
 </p>
 
 <p align="center">
