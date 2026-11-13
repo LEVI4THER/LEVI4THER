@@ -24,17 +24,14 @@
   <img src="./main-image.png" width="75%" alt="Main Illustration">
 </p>
 
-
-<h2 align="center">✦ ME IN A NUTSHELL ✦</h2>
-
 <p align="center">
-  Pleasure to find you here!
+  Thank you for your visit.
   <br> <br>
-  You can simply call me <b>Jaco</b>.
+  You can simply call me <b>Jaco</b> or whatevs u want I dont mind tehe
   <br> <br>
-  as u can see im interested in wifies' arcs/series yt but im still new in this fandom :(
+  As u can see Im interested in wifies' arcs/series yt and others but Im still new in this fandom :(
   <br>
-  yet i dont mind if u can come to me and talk about it! id be glad if u do :)
+  Yet I dont mind if u can come to me and talk about it! Id be glad if u do :)
 </p>
 
 <h2 align="center">✦ FIND ME ELSEWHERE ✦</h2>
