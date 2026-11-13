@@ -1,7 +1,7 @@
 ##
 
 <p align="center">
-  <img src="./banner.png" width="80%" alt="Profile Banner">
+  <img src="./banner.png" width="100%" alt="Profile Banner">
 </p>
 
 
