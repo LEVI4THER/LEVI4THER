@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-  ☾ ⋆⁺₊⋆ ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ⋆⁺₊⋆ ☽
+  ☾ ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ☽
 </p>
 
 
@@ -33,7 +33,7 @@
   Yet I dont mind if u can come to me and talk about it! Id be glad if u do :)
 </p>
 
-<h2 align="center">✦ FIND ME ELSEWHERE ✦</h2>
+<h2 align="center">FIND ME ELSEWHERE</h2>
 
 <p align="center">
   <a href="https://github.com/LEVI4THER">
@@ -49,6 +49,9 @@
   </a>
 </p>
 
+<p align="center">
+  ☾ ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ☽
+</p>
 
 <p align="center">
   <img src="./decoration.gif" width="180" alt="Decoration">
