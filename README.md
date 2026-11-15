@@ -3,7 +3,6 @@
 <p align="center">
   ▭ ▬⎯⎯⎯⎯⎯⎯⎯ II ⎯⎯⎯⎯⎯⎯⎯▬ ▭
   <br> <br>
-  <br> <br>
 </p>
 
 <p align="center">
@@ -68,7 +67,6 @@
 </p>
 
 <p align="center">
-  <br> <br>
   <br> <br>
   ▭ ▬⎯⎯⎯⎯⎯⎯⎯ II ⎯⎯⎯⎯⎯⎯⎯▬ ▭
 </p>
