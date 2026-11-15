@@ -3,6 +3,7 @@
 <p align="center">
   ▭ ▬⎯⎯⎯⎯⎯⎯⎯ II ⎯⎯⎯⎯⎯⎯⎯▬ ▭
   <br> <br>
+  <br> <br>
 </p>
 
 <p align="center">
@@ -14,7 +15,10 @@
 </h2>
 
 <p align="center">
-  <img src="./quote-tny.png" alt="I don't think I can believe in something that might not even exist." width="600">
+  <i>
+    "I don't think I can believe in something that might not exist."
+  </i>
+  <br>
 </p>
 
 <p align="center">
@@ -32,6 +36,7 @@
   As u can see Im interested in wifies' arcs/series yt and others but Im still new in this fandom :(
   <br>
   Yet I dont mind if u can come to me and talk about it! Id be glad if u do :)
+  <br> <br>
 </p>
 
 <h2 align="center">FIND ME ELSEWHERE</h2>
@@ -51,13 +56,19 @@
 </p>
 
 <p align="center">
-  ☾ ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ☽
-</p>
-
-<p align="center">
   <img src="./decoration.gif" width="180" alt="Decoration">
 </p>
 
 <p align="center">
+  <img src="./outro-image.png" width="40%" alt="Outro Image">
+</p>
+
+<p align="center">
   <i>Thank you for visiting my little corner of the internet.</i>
+</p>
+
+<p align="center">
+  <br> <br>
+  <br> <br>
+  ▭ ▬⎯⎯⎯⎯⎯⎯⎯ II ⎯⎯⎯⎯⎯⎯⎯▬ ▭
 </p>
