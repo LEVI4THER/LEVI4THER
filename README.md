@@ -1,19 +1,20 @@
 ##
 
 <p align="center">
+  ▭ ▬⎯⎯⎯⎯⎯⎯⎯ II ⎯⎯⎯⎯⎯⎯⎯▬ ▭
+  <br> <br>
+</p>
+
+<p align="center">
   <img src="./banner.png" width="100%" alt="Profile Banner">
 </p>
 
 <h2 align="center">
-  <span style="color: #B8A1E3;"
-    >WELCOME TO MY OCEAN
-  </span>
+    >WELCOME TO MY OCEAN !
 </h2>
 
 <p align="center">
-  <i>
-    "I don't think I can believe in something that might not even exist." 
-  </i>
+  <img src="./quote-tny.png" alt="I don't think I can believe in something that might not even exist." width="600">
 </p>
 
 <p align="center">
