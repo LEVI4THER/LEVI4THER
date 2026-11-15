@@ -6,16 +6,13 @@
 </p>
 
 <p align="center">
-  <img src="./banner.png" width="90%" alt="Profile Banner">
-  <br>
-</p>
-
-<p align="center">
   <br>
   <img src="./main-image.png" width="75%" alt="Main Illustration">
+  <br>
 </p>
 
 <p align="center">
+  <br> <>
   You can simply call me <b>Jaco</b> or whatevs u want I dont mind tehe
   <br> <br>
   As u can see Im interested in wifies' arcs/series yt and others but Im still new in this fandom :(
@@ -42,14 +39,11 @@
 
 <p align="center">
   <img src="./decoration.gif" width="180" alt="Decoration">
+  <br>
 </p>
 
 <p align="center">
-  <img src="./outro-image.png" width="40%" alt="Outro Image">
-</p>
-
-<p align="center">
-  <i>Thank you for visiting my little corner of the internet.</i>
+  <img src="./banner.png" width="60%" alt="Outro Image">
 </p>
 
 <p align="center">
