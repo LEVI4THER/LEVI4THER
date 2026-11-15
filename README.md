@@ -10,7 +10,7 @@
 </p>
 
 <h2 align="center">
-    >WELCOME TO MY OCEAN !
+    WELCOME TO MY OCEAN !
 </h2>
 
 <p align="center">
