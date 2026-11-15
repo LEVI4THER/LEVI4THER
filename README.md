@@ -7,20 +7,11 @@
 
 <p align="center">
   <img src="./banner.png" width="100%" alt="Profile Banner">
-</p>
-
-<h2 align="center">
-    WELCOME TO MY OCEAN !
-</h2>
-
-<p align="center">
-  <i>
-    "I don't think I can believe in something that might not exist."
-  </i>
   <br>
 </p>
 
 <p align="center">
+  <br>
   <img src="./main-image.png" width="75%" alt="Main Illustration">
 </p>
 
