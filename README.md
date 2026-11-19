@@ -7,17 +7,19 @@
 
 <p align="center">
   <br>
-  <img src="./main-image.png" width="75%" alt="Main Illustration">
+  <img src="./main-image.png" width="85%" alt="Main Illustration">
   <br>
 </p>
 
 <p align="center">
   <br>
-  You can simply call me <b>Jaco</b> or whatevs u want I dont mind
+  <i>Jaco, ISFP, minor</i>
   <br> <br>
-  As u can see Im interested in wifies' arcs/series yt and others but Im still new in this fandom :( kinda multifandom
-  <br>
-  Yet I dont mind if u come to me and talk about it! Id be glad if u do :)
+  Im interested in wifies' arcs/series yt and other mcyts but im still new in this fandom :( kinda multifandom
+  <br> <br>
+I like the chinese style pony and im tryna to make it
+  <br> <br>
+  I dont mind if u come to me and talk about it! Id be glad if u do :) (cuz i bad at socializing cough) 
   <br> <br>
 </p>
 
@@ -43,7 +45,7 @@
 </p>
 
 <p align="center">
-  <img src="./banner.png" width="75%" alt="Outro Image">
+  <img src="./banner.png" width="100%" alt="Outro Image">
 </p>
 
 <p align="center">
