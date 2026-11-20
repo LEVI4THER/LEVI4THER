@@ -5,7 +5,6 @@
 </p>
 
 <p align="center">
-  <br>
   <img src="./main-banner.png" width="85%" alt="Main Illustration">
   <br> <br>
 </p>
