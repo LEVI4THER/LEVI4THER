@@ -7,7 +7,7 @@
 
 <p align="center">
   <br>
-  <img src="./main-image.png" width="85%" alt="Main Illustration">
+  <img src="./banner.png" width="85%" alt="Main Illustration">
   <br> <br>
 </p>
 
