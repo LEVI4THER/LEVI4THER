@@ -2,12 +2,13 @@
 
 <p align="center">
   ▭ ▬⎯⎯⎯⎯⎯⎯⎯ II ⎯⎯⎯⎯⎯⎯⎯▬ ▭
+  <br> <br>
 </p>
 
 <p align="center">
   <br>
   <img src="./main-image.png" width="85%" alt="Main Illustration">
-  <br>
+  <br> <br>
 </p>
 
 
@@ -20,7 +21,7 @@
   I dont mind if u come over me n be frinds :) <i>(𝚌𝚞𝚣 𝚒 𝚋𝚊𝚍 𝚊𝚝 𝚜𝚘𝚌𝚒𝚊𝚕𝚒𝚣𝚒𝚗𝚐 𝚌𝚘𝚞𝚐𝚑)<i/>
 </pre>
 
-
+<br>
 <h2 align="center">FIND ME ELSEWHERE</h2>
 
 <p align="center">
@@ -42,9 +43,9 @@
   <br>
 </p>
 
-<p align="center">
-  <img src="./banner.png" width="100%" alt="Outro Image">
-</p>
+<pre align="center">
+  <i>" Thank you for the visit! "<i/>
+</pre>
 
 <p align="center">
   <br> <br>
