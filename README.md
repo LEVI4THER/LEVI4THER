@@ -44,7 +44,7 @@
 </p>
 
 <pre align="center">
-  <i>" Thank you for the visit! "<i/>
+  <i>" Thank you for the visit! "</i>
 </pre>
 
 <p align="center">
