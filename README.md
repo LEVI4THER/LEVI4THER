@@ -1,14 +1,13 @@
 ##
 
 <p align="center">
-  ▭ ▬⎯⎯⎯⎯⎯⎯⎯ II ⎯⎯⎯⎯⎯⎯⎯▬ ▭
+  ▭ ▬⎯⎯⎯⎯⎯⎯⎯  II ⎯⎯⎯⎯⎯⎯⎯▬ ▭
 </p>
 
 <p align="center">
-  <img src="./main-banner.png" width="85%" alt="Main Illustration">
+  <img src="./main-banner.png" width="90%" alt="Main Illustration">
   <br> <br>
 </p>
-
 
 <pre align="center">
   <i>Jaco , INFP , minor</i>
@@ -25,15 +24,15 @@
 <table align="center">
   <tr>
     <td align="center">
-      <a href="https://github.com/LEVIATH3R">
-        <img src="./github.png" width="140" alt="GitHub">
+      <a href="https://github.com/LEVI4THER">
+        <img src="./github.png" width="120" alt="GitHub">
         <br>
         <b>𝕲ɪᴛʜᴜʙ</b>
       </a>
     </td>
     <td align="center">
       <a href="https://discord.com/users/1526911175109902427">
-        <img src="./discord.png" width="140" alt="Discord">
+        <img src="./discord.png" width="120" alt="Discord">
         <br>
         <b>𝕯ɪsᴄᴏʀᴅ</b>
       </a>
@@ -52,5 +51,5 @@
 
 <p align="center">
   <br> <br>
-  ▭ ▬⎯⎯⎯⎯⎯⎯⎯ II ⎯⎯⎯⎯⎯⎯⎯▬ ▭
+  ▭ ▬⎯⎯⎯⎯⎯⎯⎯  II ⎯⎯⎯⎯⎯⎯⎯▬ ▭
 </p>
