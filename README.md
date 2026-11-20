@@ -2,7 +2,6 @@
 
 <p align="center">
   ▭ ▬⎯⎯⎯⎯⎯⎯⎯ II ⎯⎯⎯⎯⎯⎯⎯▬ ▭
-  <br> <br>
 </p>
 
 <p align="center">
@@ -24,17 +23,13 @@
 <br>
 <h2 align="center">FIND ME ELSEWHERE</h2>
 
+
 <p align="center">
-  <a href="https://github.com/LEVI4THER">
-    GitHub
+  <a href="https://github.com/LEVIATH3R" target="_blank">
+    <img src="./github.png" width="170" alt="GitHub">
   </a>
-  –
-  <a href="https://discord.com/users/1526911175109902427">
-    Discord
-  </a>
-  –
-  <a href="https://YOURNAME.atabook.org">
-    Atabook
+  <a href="https://discord.com/users/1526911175109902427" target="_blank">
+    <img src="./discord.png" width="170" alt="Discord">
   </a>
 </p>
 
