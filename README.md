@@ -23,20 +23,24 @@
 <br>
 <h2 align="center">𝐅𝐈𝐍𝐃 𝐌𝐄 𝐄𝐋𝐒𝐄𝐖𝐇𝐄𝐑𝐄</h2>
 
-
-<p align="center">
-  <a href="https://github.com/LEVIATH3R" target="_blank">
-    <img src="./github.png" width="120" alt="GitHub">
-    <br>
-    <b>Github</b>
-  </a>
-  
-  <a href="https://discord.com/users/1526911175109902427" target="_blank">
-    <img src="./discord.png" width="120" alt="Discord">
-    <br>
-    <b>Discord</b>
-  </a>
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://github.com/LEVIATH3R">
+        <img src="./github.png" width="140" alt="GitHub">
+        <br>
+        <b>𝕲ɪᴛʜᴜʙ</b>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://discord.com/users/1526911175109902427">
+        <img src="./discord.png" width="140" alt="Discord">
+        <br>
+        <b>𝕯ɪsᴄᴏʀᴅ</b>
+      </a>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <img src="./decoration.gif" width="180" alt="Decoration">
