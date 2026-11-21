@@ -24,15 +24,8 @@
 <table align="center">
   <tr>
     <td align="center">
-      <a href="https://github.com/LEVI4THER">
-        <img src="./github.png" width="120" alt="GitHub">
-        <br>
-        <b>𝕲ɪᴛʜᴜʙ</b>
-      </a>
-    </td>
-    <td align="center">
       <a href="https://discord.com/users/1526911175109902427">
-        <img src="./discord.png" width="120" alt="Discord">
+        <img src="./discordpic.png" width="120" alt="Discord">
         <br>
         <b>𝕯ɪsᴄᴏʀᴅ</b>
       </a>
