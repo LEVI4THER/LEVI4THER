@@ -6,7 +6,7 @@
 
 <p align="center">
   <img src="./main-banner.png" width="90%" alt="Main Illustration">
-  <br> <br>
+  <br>
 </p>
 
 <pre align="center">
@@ -15,7 +15,7 @@
   𝙸𝚖 𝚒𝚗𝚝𝚎𝚛𝚎𝚜𝚝𝚎𝚍 𝚒𝚗 𝚠𝚒𝚏𝚒𝚎𝚜' 𝚊𝚛𝚌𝚜/𝚜𝚎𝚛𝚒𝚎𝚜 𝚢𝚝 𝚊𝚗𝚍 𝚘𝚝𝚑𝚎𝚛 𝚖𝚌𝚢𝚝𝚜 𝚋𝚞𝚝 𝚒𝚖 𝚜𝚝𝚒𝚕𝚕 𝚗𝚎𝚠 𝚒𝚗 𝚝𝚑𝚒𝚜 𝚏𝚊𝚗𝚍𝚘𝚖 :( 𝚔𝚒𝚗𝚍𝚊 𝚖𝚞𝚕𝚝𝚒𝚏𝚊𝚗𝚍𝚘𝚖
   𝙸 𝚕𝚒𝚔𝚎 𝚝𝚑𝚎 𝚌𝚑𝚒𝚗𝚎𝚜𝚎 𝚜𝚝𝚢𝚕𝚎 𝚙𝚘𝚗𝚒𝚎𝚜 𝚊𝚗𝚍 𝚒𝚖 𝚝𝚛𝚢𝚗𝚊 𝚝𝚘 𝚖𝚊𝚔𝚎 𝚒𝚝
   <br>
-  I dont mind if u come over me n be friends :) <i>(𝚌𝚞𝚣 𝚒 𝚋𝚊𝚍 𝚊𝚝 𝚜𝚘𝚌𝚒𝚊𝚕𝚒𝚣𝚒𝚗𝚐 𝚌𝚘𝚞𝚐𝚑)</i>
+  I dont mind if u come over me n be friends :) <i>(𝚌𝚞𝚣 𝚒 𝚋𝚊𝚍 𝚊𝚝 𝚜𝚘𝚌𝚒𝚊𝚕𝚒𝚣𝚒𝚗𝚐 n boring 𝚌𝚘𝚞𝚐𝚑)</i>
 </pre>
 
 <br>
